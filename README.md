@@ -48,6 +48,6 @@ The analysis of the Elden Ring Boss Dataset includes various visualizations and 
 
 The conclusions are supported by relevant plots and images included in the notebook.
 
-Please refer to the "Elden Ring EDA.ipynb" notebook for detailed analysis, code implementation, and visualizations.
+Please refer to the "Elden Ring EDA.ipynb" notebook for visualizations, detailed analysis and code implementation.
 
 Note: The dataset and analysis are based on Elden Ring, a fantasy world created by Hidetaka Miyazaki and George R. R. Martin. The analysis focuses on the bosses in the game and their characteristics.
